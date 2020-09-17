@@ -1,0 +1,70 @@
+Types  
+  - Fire     
+    - Weakness: Water   
+    - Strength: Nature
+  - Water    
+    - Weakness: Nature
+    - Strength: Fire
+  - Nature
+    - Weakness: Fire
+    - Strength: Water
+  -Light
+    - Weakness: Dark
+    - Strength: Dark
+  -Dark
+    - Weakness: Light
+    - Strength: Light
+  
+Spells
+ *Fire
+  - Fireball (Power: 35, Extra Effect: None)
+  - Max Inferno (Power: 55, Extra Effect: 45% Chance to Burn)
+  - Flame Pillar (Power 70, Extra Effect: 10% Chance to lower attack)
+  - Combustion Trifecta (Power: 30, Extra Effect: Hits three times)
+
+ *Water
+  - Bubble Blast (Power: 40, Extra Effect: None)
+  - Boiling Stream (Power: 55, Extra Effect: 30% Burn)
+  - Aquatic Storm (Power: 75, Extra Efffect: Hits all opposing targets)
+  - Aqua Blast (Power: 90, Extra Effect: 50% to cure self burn)
+  - Waves of Prayer (Effect: Causes rain to start to fall and all water type moves are increased by 20%)
+  - Waves of Terror (Effect: Causes Earth and Fire type moves to lose power by 20%)
+  - Oasis (Effect: A spell directly effecting you from the previous 3 turns are now eradicated)
+  - Serene Aquaducts (Effect: Your health increases by 40% of your opponents health)
+
+ *Nature
+  - Pollen Rush (Power: 40, Extra Effect: Opponent sneezes)
+  - Flower Power (Power: 55, Extra Effect: 35% chance of "Life" terrain)
+  - Deep Roots (Power: 80 Extra Effect: Move comes out on turn 2 and has a 20% chance to trap the opponent for the next turn)
+  - Solar Flare (Power: 110 Extra Effect: 30% chance to Burn)
+  - Endless Meadow (Effect: Makes all Nature Moves stronger)
+  - Pure Atmasphere (Effect: Makes Fire and Poison moves weaker and negates their effects)
+  - Recycle (Effect: Collects any items discarded in the previous turn)
+  - Photosynthesis (Effect: Increases Defense by 2 times)
+
+ *Electric
+  - Electro-Spear (Power: 50, Extra Effect: 10% Chance to weaken opponents' defense)
+  - Static (Power: 30, Extra Effect: 2 hit move, chance to Paralyze is 50%)
+  - Thunder Orb (Power: 75, Extra Effect: None)
+  - Voltage Overload (Power: 130, Extra Effect: 50% chance to paralyze yourself)
+  - Storm (Effect: all electric moves are stronger)
+  - Electro-Field (Effect: Makes Earth And Strength moves less strong)
+  - Re-Charge (Effect: You gain 50% of the opponents Health)
+  - Conducter (Effect: All chances of a move's effect happening are increased)
+
+ *Strength
+  - Rapid Jab (Power: 5, Extra Effect: hits 8 times)
+  - Round House (Power: 70, Extra Effect: None)
+  - Power Play (Power: 90, Extra Effect: None)
+  - Max Strike (Power: 110, Extra Effect: Lowers attack by one stage)
+  - Psyche Up (Effect: Makes all Strength Moves Stranger)
+  - Full Counter (Effect: when hit while using this move, the damage is repelled and doubled)
+  - Impenetrable Gains (Effect: All Air and Light Effects are ineffective)
+  - Leg Day (Affect: Defense is increased)
+
+ *Light
+  - Angel's arrow (Power: 40, Extra Effect: Becomes 1.5 times stronger when targeting a dark opponent)
+  - God Scepter (Power:  60, Extra Effect: weakens Dark Opponent's Defense after their hit)
+  - Heaven's Goblet (Power: 30, Extra Effect: Makes your defense greater)
+  - Divine Chaos (Power: 120, Extra Effect: Your Defense against Dark Effects is decreased and your normal defense is decreased)
+  - 
