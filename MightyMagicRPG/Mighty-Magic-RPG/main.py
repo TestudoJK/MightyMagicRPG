@@ -2,10 +2,8 @@ from player import Character
 from shop import Shop
 from enemy import Enemies
 from time import sleep as wait
-from colorama import Fore, Style
 from battle import Combat
 from weapons import Weapons, Spells
-from UIelements import UI as ui
 # import keyboard
 
 def print_text_file(file):

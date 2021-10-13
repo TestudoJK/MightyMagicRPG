@@ -1,4 +1,3 @@
-from UIelements import UI as ui
 from random import randint as randomNum
 from time import sleep as wait
 

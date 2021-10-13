@@ -1,7 +1,5 @@
 from weapons import Weapons, Items
 import time
-from colorama import Style, Fore
-from UIelements import UI as ui
 
 class Shop():
 
